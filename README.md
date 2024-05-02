@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Spotify Playing 🎧
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31tyznae2g4rsb3pwqdz2uuntx7y)
