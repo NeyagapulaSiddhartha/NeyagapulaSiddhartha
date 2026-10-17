@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31tyznae2g4rsb3pwqdz2uuntx7y)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31igztx7tlfeu73hlal5dismmpt4)
